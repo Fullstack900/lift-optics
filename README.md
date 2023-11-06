@@ -1,15 +1,13 @@
 # Project Name: Table Implementation with Multi-selection and Scrolling
 
-This project is a coding implementation of "Template 1" from the Figma design provided [here](https://www.figma.com/file/KE6PIyouT4wjSif4Zgy26F/optcalbot.io-core-design?type=design&node-id=10403%3A70306&mode=design&t=Y9w3kxGqKCVDUPjB-1).
+This project is a coding implementation of "Template" from the Figma design provided by client.
 
 ## Table of Contents
 
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Code Overview](#code-overview)
 
 ## Description
 
