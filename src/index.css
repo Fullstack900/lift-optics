@@ -1,0 +1,11 @@
+.MuiDataGrid-row.Mui-odd {
+  background-color: #f5f5f5;
+}
+@media screen and (max-width: 600px) {
+  .css-j7n2lb {
+    padding: 0 !important;
+  }
+  .css-ptkaw2-MuiDataGrid-root {
+    margin-top: 30px;
+  }
+}
